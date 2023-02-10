@@ -1,4 +1,4 @@
-# Mifare-Value-Block-De--Encoder
+# Mifare-Value-Block-Decoder-Encoder
 Very simple encoder/decoder of mifare block.<br>
 Couldn't find a free one online, so I made one by myself.
 
